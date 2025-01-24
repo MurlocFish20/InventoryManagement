@@ -1,7 +1,7 @@
-package src.test.java.com.example;
+package com.example;
 
-import src.main.java.com.example.Main;
-import src.main.java.com.example.Product;
+import com.example.Main;
+import com.example.Product;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
