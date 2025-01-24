@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: src.test.java.com.example.MainTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in src.test.java.com.example.MainTests
